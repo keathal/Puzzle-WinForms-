@@ -1,0 +1,10 @@
+D:\puzzle\puzzle\bin\Debug\puzzle.exe.config
+D:\puzzle\puzzle\bin\Debug\puzzle.exe
+D:\puzzle\puzzle\bin\Debug\puzzle.pdb
+D:\puzzle\puzzle\obj\Debug\puzzle.Form1.resources
+D:\puzzle\puzzle\obj\Debug\puzzle.Properties.Resources.resources
+D:\puzzle\puzzle\obj\Debug\puzzle.csproj.GenerateResource.cache
+D:\puzzle\puzzle\obj\Debug\puzzle.csproj.CoreCompileInputs.cache
+D:\puzzle\puzzle\obj\Debug\puzzle.exe
+D:\puzzle\puzzle\obj\Debug\puzzle.pdb
+D:\puzzle\puzzle\obj\Debug\puzzle.csprojAssemblyReference.cache
